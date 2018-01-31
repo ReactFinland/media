@@ -5,7 +5,7 @@
 
 Install inkscape first.
 
-**To generate a svg:**
+**To generate an ico:**
 
 > png2ico -i logo-black.png -o logo-black.ico
 > png2ico -i logo-white.png -o logo-white.ico
