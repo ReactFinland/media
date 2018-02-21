@@ -4,8 +4,8 @@
     <g transform="matrix(1,0,0,1,-106.323,32.5453)">
         <g>
             <g>
-                <text x="303.989px" y="57.471px" style="font-family:'Finlandica-Regular', 'Finlandica';font-size:64px;fill:rgb(10,75,220);">R<tspan x="339.381px 370.165px 400.949px " y="57.471px 57.471px 57.471px ">eac</tspan>t</text>
-                <text x="303.989px" y="121.471px" style="font-family:'Finlandica-Regular', 'Finlandica';font-size:64px;fill:rgb(10,75,220);">Finla<tspan x="438.389px " y="121.471px ">n</tspan>d</text>
+                <text x="303.989px" y="57.471px" style="font-family:'Finlandica-Bold', 'Finlandica';font-weight:700;font-size:64px;fill:rgb(10,75,220);">R<tspan x="341.109px 374.005px 405.685px " y="57.471px 57.471px 57.471px ">eac</tspan>t</text>
+                <text x="303.989px" y="121.471px" style="font-family:'Finlandica-Bold', 'Finlandica';font-weight:700;font-size:64px;fill:rgb(10,75,220);">Finland</text>
             </g>
         </g>
     </g>
